@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simón Cervantes</h1>
-<h3 align="center">I am passionate about new technologies currently in my professional development in DevSecOps. Programmer in Web technologies, student at Platzi never stop learning. My main programming languages/platforms are: Java, Javascript, Node.js, PHP, Python, Azure, IBMCloud, AWS. About my hobbies I love reading, listening to music and sports.</h3>
+<h3 align="center">I am passionate about new technologies currently in my professional development in DevSecOps. Programmer in Web technologies, student at Platzi never stop learning. My main programming languages/platforms are: Java, Javascript, Node.js, PHP, Python, Azure, IBMCloud, AWS. About my hobbies... I love reading, listening to music and sports.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacm89-code&label=Profile%20views&color=0e75b6&style=flat" alt="sacm89-code" /> </p>
 
