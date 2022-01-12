@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **simonalejandro@cervantesmartinez.com**
 
-- In my way at work a learn with: **DevOps tools** at **automate application deployments using Jenkins CI/CD **. 
+- In my way at work a learn with: **DevOps tools** at **automate application deployments using Jenkins CI/CD**. 
 
 - I want to know more of:
     1.	Jenkins Integration with top most DevOps Tools listed above
