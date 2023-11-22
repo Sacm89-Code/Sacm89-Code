@@ -77,20 +77,14 @@ Digital Projects and Events
 
 Integration of cybersecurity measures into the DevOps pipeline
 
-- I want to know more of:
+-💡 Intereses y Próximos Pasos:
 
-1. Frontend Frameworks: Explore popular frontend frameworks like React.
-
-2. Backend Technologies: Consider delving into backend technologies such as Node.js or Django.
-
-3. Cloud Computing Platforms: Gain hands-on experience with cloud platforms like AWS, Azure, or Google Cloud.
-
-4. Microservices Architecture: Understand and implement microservices architecture to design scalable and modular systems.
-
-5. Advanced Security Practices: Enhance your knowledge of cybersecurity practices, including threat modeling, secure coding practices, and vulnerability assessments.
-
-6. Machine Learning and AI: Explore the integration of machine learning and artificial intelligence into applications.
-
+🛠 Explorando Frontend Frameworks como React.
+⚙ Ampliando conocimientos en Backend Technologies como Node.js y Django.
+☁ Adquiriendo experiencia práctica en Cloud Computing Platforms como AWS y Azure.
+🔄 Implementando Microservices Architecture para sistemas más escalables.
+🔐 Mejorando prácticas de Advanced Security y realizando evaluaciones de vulnerabilidades.
+🤖 Explorando la integración de Machine Learning y AI en aplicaciones.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
