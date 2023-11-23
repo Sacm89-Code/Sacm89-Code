@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on **NTT Data**
 
 - 🌱 Currently Learning
-*DevOps principles and tools: Jenkins CI/CD, Docker, Kubernetes (Helm).
-*Skills in Kubernetes, ELK, Grafana for comprehensive monitoring.
-*Exploring DevOps: cybersecurity, code quality (SonarQube), advanced automation.
-*Integrating artificial intelligence into DevOps to enhance development and deployment processes
+    1.	DevOps principles and tools: Jenkins CI/CD, Docker, Kubernetes (Helm).
+    2.	Skills in Kubernetes, ELK, Grafana for comprehensive monitoring
+    3.	Exploring DevOps: cybersecurity, code quality (SonarQube), advanced automation
+    4.	Integrating artificial intelligence into DevOps to enhance development and deployment processes
 
 - 💬 Ask me about **Devops, Web depvelopment and programming: Java, JavaScript.**
 
@@ -17,74 +17,65 @@
 
 - In my way at work a learn with:
   
-1. Desarrollo y Programación:
-
-Java
-JavaScript (Vanilla JS)
-SpringBoot
-JSON, YAML, Kafka
-SQL queries
-Python
-Shell scripting
-
-
-2. Desarrollo Web:
-
-Web developmen: HTML5, CSS3, JavaScript
-Preprocesadores CSS (SASS o LESS)
-Responsive Design
-
-3. DevOps:
-
-Jenkins CI/CD
-Maven, Gradle
-Docker
-Kubernetes
-Ansible
-Bash Shell Scripting
-Docker, Kubernetes with Helm
-ELK (Elasticsearch, Logstash, Kibana)
-Grafana
-Advanced automation strategies in DevOps
-Integration of artificial intelligence into DevOps processes
-
-4. Industrial Automation e IoT:
-
-IoT
-SCADA systems
-HMI screens
-Data analysis
- 
-
-5. Gestión de Proyectos y Métodos Ágiles:
-
-Project management
-Agile and Scrum Methodologies
-Jira
-
-6. Realidades Extendidas (XR):
-
-Virtual Reality (VR)
-Augmented Reality (AR)
-Mixed Reality (MR)
-
-7. Soporte IT y Eventos Digitales:
-
-IT support
-Digital Projects and Events
-
-8. Ciberseguridad:
-
-Integration of cybersecurity measures into the DevOps pipeline
+    **1. Desarrollo y Programación:**
+        Java
+        JavaScript (Vanilla JS)
+        SpringBoot
+        JSON, YAML, Kafka
+        SQL queries
+        Python
+        Shell scripting
+    
+    
+    **2. Desarrollo Web:**
+        Web developmen: HTML5, CSS3, JavaScript
+        Preprocesadores CSS (SASS o LESS)
+        Responsive Design
+    
+    **3. DevOps:**
+        Jenkins CI/CD
+        Maven, Gradle
+        Docker
+        Kubernetes
+        Ansible
+        Bash Shell Scripting
+        Docker, Kubernetes with Helm
+        ELK (Elasticsearch, Logstash, Kibana)
+        Grafana
+        Advanced automation strategies in DevOps
+        Integration of artificial intelligence into DevOps processes
+    
+    **4. Industrial Automation e IoT:**
+        IoT
+        SCADA systems
+        HMI screens
+        Data analysis
+     
+    **5. Gestión de Proyectos y Métodos Ágiles:**
+        Project management
+        Agile and Scrum Methodologies
+        Jira
+    
+    **6. Realidades Extendidas (XR):**
+        Virtual Reality (VR)
+        Augmented Reality (AR)
+        Mixed Reality (MR)
+    
+    **7. Soporte IT y Eventos Digitales:**
+        IT support
+        Digital Projects and Events
+    
+    **8. Ciberseguridad:**
+        Integration of cybersecurity measures into the DevOps pipeline
 
 -💡 Intereses y Próximos Pasos:
 
-🛠 Explorando Frontend Frameworks como React.
-⚙ Ampliando conocimientos en Backend Technologies como Node.js y Django.
-☁ Adquiriendo experiencia práctica en Cloud Computing Platforms como AWS y Azure.
-🔄 Implementando Microservices Architecture para sistemas más escalables.
-🔐 Mejorando prácticas de Advanced Security y realizando evaluaciones de vulnerabilidades.
-🤖 Explorando la integración de Machine Learning y AI en aplicaciones.
+    🛠 Explorando Frontend Frameworks como React.
+    ⚙ Ampliando conocimientos en Backend Technologies como Node.js y Django.
+    ☁ Adquiriendo experiencia práctica en Cloud Computing Platforms como AWS y Azure.
+    🔄 Implementando Microservices Architecture para sistemas más escalables.
+    🔐 Mejorando prácticas de Advanced Security y realizando evaluaciones de vulnerabilidades.
+    🤖 Explorando la integración de Machine Learning y AI en aplicaciones.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
