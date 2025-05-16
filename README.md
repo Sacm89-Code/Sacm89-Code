@@ -1,81 +1,71 @@
 <h1 align="center">Hi 👋, I'm Simón Cervantes</h1>
-<h3 align="center">Currently, I'm enthusiastic about embracing new technologies as I advance in my career as a Programmer and DevOps specialist. Programmer in Web technologies, student at Platzi never stop learning. My main programming languages/platforms are: Java, Javascript, PHP. About my hobbies... I love reading, listening to music and sports like Kickboxing and paddle.</h3>
+<h3 align="center">
+I'm passionate about embracing new technologies as I grow in my career as a Programmer and DevSecOps specialist. Experienced in web technologies, currently a lifelong learner at Platzi. My main programming languages/platforms are: Java, JavaScript, and PHP. 
+When I'm not coding, I enjoy reading, listening to music, and practicing sports like kickboxing and paddle.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sacm89-code&label=Profile%20views&color=0e75b6&style=flat" alt="sacm89-code" /> </p>
+<h3 align="center">ROLES: DevSecOps | Cloud & Automation Analyst | Full Stack Developer | Cybersecurity Technician</h3>
 
-- 🔭 I’m currently working on **NTT Data**
+<p align="center">
+📍 Almería, Spain • 🌐 Developer passionate about automation, cloud security, and continuous learning. Ongoing student at Platzi and also training through AWS, Microsoft Learn, and Cisco Networking Academy.
+</p>
 
-- 🌱 Currently Learning
-    1.	DevOps principles and tools: Jenkins CI/CD, Docker, Kubernetes (Helm).
-    2.	Skills in Kubernetes, ELK, Grafana for comprehensive monitoring
-    3.	Exploring DevOps: cybersecurity, code quality (SonarQube), advanced automation
-    4.	Integrating artificial intelligence into DevOps to enhance development and deployment processes
+---
 
-- 💬 Ask me about **Devops, Web depvelopment and programming: Java, JavaScript.**
+🔭 **Currently open to new opportunities**  
+At NTT Data, I participated in cloud automation projects, strengthened CI/CD pipelines, implemented security by design in both public and private sector environments, and contributed to both frontend and backend development.
 
-- 📫 How to reach me **simonalejandro@cervantesmartinez.com**
+🛡️ **My evolving role**  
+From developer to full stack and now specializing in DevSecOps. Through the Cisco career path, I’ve trained as a technical cybersecurity analyst and continued my growth with a cybersecurity bootcamp at 4Geeks Academy.
 
-- In my way at work a learn with:
-  
-    **1. Desarrollo y Programación:**
-        Java
-        JavaScript (Vanilla JS)
-        SpringBoot
-        JSON, YAML, Kafka
-        SQL queries
-        Python
-        Shell scripting
-    
-    
-    **2. Desarrollo Web:**
-        Web developmen: HTML5, CSS3, JavaScript
-        Preprocesadores CSS (SASS o LESS)
-        Responsive Design
-    
-    **3. DevOps:**
-        Jenkins CI/CD
-        Maven, Gradle
-        Docker
-        Kubernetes
-        Ansible
-        Bash Shell Scripting
-        Docker, Kubernetes with Helm
-        ELK (Elasticsearch, Logstash, Kibana)
-        Grafana
-        Advanced automation strategies in DevOps
-        Integration of artificial intelligence into DevOps processes
-    
-    **4. Industrial Automation e IoT:**
-        IoT
-        SCADA systems
-        HMI screens
-        Data analysis
-     
-    **5. Gestión de Proyectos y Métodos Ágiles:**
-        Project management
-        Agile and Scrum Methodologies
-        Jira
-    
-    **6. Realidades Extendidas (XR):**
-        Virtual Reality (VR)
-        Augmented Reality (AR)
-        Mixed Reality (MR)
-    
-    **7. Soporte IT y Eventos Digitales:**
-        IT support
-        Digital Projects and Events
-    
-    **8. Ciberseguridad:**
-        Integration of cybersecurity measures into the DevOps pipeline
+🎯 **Professional goal**  
+To build secure, scalable, and business-aligned solutions by applying DevOps best practices, critical thinking, and collaborative agile methodologies.
 
--💡 Intereses y Próximos Pasos:
 
-    🛠 Explorando Frontend Frameworks como React.
-    ⚙ Ampliando conocimientos en Backend Technologies como Node.js y Django.
-    ☁ Adquiriendo experiencia práctica en Cloud Computing Platforms como AWS y Azure.
-    🔄 Implementando Microservices Architecture para sistemas más escalables.
-    🔐 Mejorando prácticas de Advanced Security y realizando evaluaciones de vulnerabilidades.
-    🤖 Explorando la integración de Machine Learning y AI en aplicaciones.
+---
+
+### 🚀 Experience & Key Technologies
+
+#### 🧠 DevOps / DevSecOps
+- **CI/CD**: Jenkins, GitLab CI  
+- **Containers & Orchestration**: Docker, Kubernetes, OpenShift, Helm  
+- **Infrastructure as Code**: Ansible, Terraform  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+- **Security Tools**: Vault, SonarQube, Nexus, Snyk, OWASP Top 10  
+- **Cloud & Pipeline Security**: Hardening, vulnerability management, ENS, ISO 27001 compliance  
+
+#### 💻 Development
+- **Languages**: Java, JavaScript, PHP, Python, Shell scripting  
+- **Web**: HTML5, CSS3, Bootstrap, SASS, responsive design  
+- **Frameworks**: SpringBoot, currently exploring React and Node.js  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **APIs & Architecture**: REST APIs, microservices architectures  
+
+#### ☁️ Cloud & Infrastructure
+- **Cloud Platforms**: AWS, Azure, GCP  
+- **Hybrid Cloud DevOps**  
+- **Infrastructure Automation & Deployment Management**  
+
+#### 🔐 Cybersecurity
+- **Ethical Hacking, Forensics, Hardening**  
+- **Offensive & Defensive Security** (Cisco, 4Geeks)  
+- **Vulnerability Management and Automated Security Integration in DevOps Pipelines**  
+
+#### 🧪 Innovation & Continuous Learning
+- **Personal Projects** using Python, data science, and AI applied to automation and cybersecurity  
+- **Ongoing Education** through AWS Educate, Microsoft Learn, Cisco Networking Academy  
+
+---
+
+### 💡 Interests & Next Steps
+
+- 🌐 Strengthen experience with modern frontend frameworks like **React**  
+- ⚙️ Deepen backend skills with **Node.js and Django**  
+- ☁️ Gain practical expertise in **AWS and Azure**  
+- 🔄 Implement **scalable microservices architectures**  
+- 🧠 Apply **Machine Learning and AI** to automation and security analysis  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
