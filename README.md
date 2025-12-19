@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simón Cervantes</h1>
 <h3 align="center">
-I'm passionate about embracing new technologies as I grow in my career as a Programmer and DevSecOps specialist. Experienced in web technologies, currently a lifelong learner at Platzi. My main programming languages/platforms are: Java, JavaScript, and PHP. 
+I'm passionate about embracing new technologies as I grow in my career as a Programmer and DevSecOps specialist. Experienced in web technologies, currently a lifelong learner at Platzi. My main programming languages/platforms are: Java, JavaScript, and PHP. But now I´m only with Python.
 When I'm not coding, I enjoy reading, listening to music, and practicing sports like kickboxing and paddle.
 </h3>
 
