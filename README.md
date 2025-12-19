@@ -4,7 +4,7 @@ I'm passionate about embracing new technologies as I grow in my career as a Prog
 When I'm not coding, I enjoy reading, listening to music, and practicing sports like kickboxing and paddle.
 </h3>
 
-<h3 align="center">ROLES: DevSecOps | Cloud & Automation Analyst | Full Stack Developer | Cybersecurity Technician</h3>
+<h3 align="center">ROLES: AI & Cybersecurity Specialist, DevSecOps Engineer | Cloud Architect | Ethical Hacker & Penetration Tester | Blue Team Specialist with Red/Purple Team Growth | CTF Player | Teaching Assistant at 4Geeks</h3>
 
 <p align="center">
 📍 Almería, Spain • 🌐 Developer passionate about automation, cloud security, and continuous learning. Ongoing student at Platzi and also training through AWS, Microsoft Learn, and Cisco Networking Academy.
