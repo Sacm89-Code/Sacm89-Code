@@ -1,34 +1,36 @@
 <h1 align="center">Hi 👋, I'm Simón Cervantes</h1>
 
 <h3 align="center">
-AI & Cybersecurity Specialist · DevSecOps Engineer · Cloud & Azure Architect
+Principal DevSecOps & Cloud Architect · Cybersecurity Specialist · Applied AI Engineer
 </h3>
 
 <p align="center">
-📍 Almería, Spain · Designing secure, intelligent and scalable cloud systems  
+📍 Almería, Spain · 12+ years building secure, scalable and intelligent systems  
 <br/>
-Platzi · Microsoft Learn · AWS · Cisco Networking Academy
+Azure · AWS · GCP · DevSecOps · Cybersecurity · AI Agents
 </p>
 
 ---
 
-## 🧭 About Me
+## 🧭 Professional Profile
 
-Senior **DevSecOps & AI Engineer** with a solid background as Full Stack Developer, evolved into a transversal role combining **cloud architecture, cybersecurity, automation and applied artificial intelligence**.
+Technology professional with **12+ years of experience in IT**, evolving from **software development** into **cloud architecture, DevSecOps, cybersecurity and applied artificial intelligence**.
 
-I design **secure-by-design architectures** on Azure and AWS, automate infrastructure as code, integrate **LLMs and NLP models into CI/CD pipelines**, and apply **DevSecOps principles and ENS compliance from the ground up**.
+I have designed and operated **enterprise-scale systems across Azure, AWS and GCP**, leading initiatives in **infrastructure automation, CI/CD, cloud governance and security-by-design**.
 
-My approach is **strategic, technical and pragmatic**, focused on building resilient systems aligned with business needs.
+In recent years, I consolidated my profile as a **DevSecOps and Cybersecurity specialist**, and during the last year I have focused on **AI-driven solutions and autonomous agents** that solve real operational and business problems.
 
-Outside tech, I enjoy reading, music, and practicing **kickboxing and paddle**.
+My approach is **architectural, pragmatic and security-first**, always aligned with enterprise, regulatory and business requirements.
 
 ---
 
-## 🧠 Current Roles & Focus
+## 🧱 Career Evolution
 
-**AI & Cybersecurity Specialist | DevSecOps Engineer**  
-Ethical Hacker & Penetration Tester · Blue Team (with Red/Purple mindset)  
-CTF Player · Teaching Assistant at **4Geeks Academy**
+- Software Engineer → Backend, APIs, distributed systems  
+- Cloud Architect → Azure, AWS, GCP, enterprise services  
+- DevOps / DevSecOps Engineer → automation, CI/CD, GitOps  
+- Cybersecurity Specialist → Blue Team, governance, SOC, SGSI  
+- Applied AI Engineer → LLMs, AI agents, intelligent automation  
 
 ---
 
@@ -37,139 +39,174 @@ CTF Player · Teaching Assistant at **4Geeks Academy**
 ### **DevSecOps & AI Engineer** · Navantia (Public Sector)  
 *Cartagena, Spain · 07/2025 – Present*
 
-- Cloud infrastructure automation on **Azure** for AI, data and RPA initiatives
-- Design and deployment of **AI agent-based solutions** using **Azure AI Foundry** and **Azure OpenAI**
-- Development of intelligent agents with **Semantic Kernel** and **LangChain**
-- Integration of AI workloads with **Microsoft Fabric** (data, analytics and pipelines)
-- Deployment of **NLP and LLM models** using OpenAI API and Hugging Face
+- Architecture and automation of **secure cloud environments on Azure** for AI, data and RPA platforms
+- Design and implementation of **AI agent-based systems** using **Azure AI Foundry** and **Azure OpenAI**
+- Development of intelligent agents with **Semantic Kernel**, LangChain and custom orchestration
+- Integration of AI workloads with **Microsoft Fabric** (data engineering, analytics and pipelines)
+- Deployment of **NLP and LLM-based solutions** using OpenAI API and Hugging Face
 - Secure integration with enterprise platforms (**SAP, UiPath**)
-- Risk analysis and **ENS compliance** for AI-based applications
-- Identity, secrets and access management with **CyberArk and IAM**
+- Risk analysis, threat modeling and **ENS compliance** for AI-driven applications
+- Identity, secrets and privileged access management with **CyberArk, IAM and Key Vault**
 
-### **DevSecOps Engineer / AI Transition** · NTT DATA  
+---
+
+### **DevSecOps Engineer / Cloud Architect** · NTT DATA  
 *Murcia, Spain · 09/2023 – 04/2025*
 
-- Azure architecture for public and private sector projects (Telefónica, ICO, Madrid Digital)
-- Progressive adoption of **AI-assisted development and automation** in the final stage
-- Design and development of **internal tools and accelerators** to improve developer productivity
-- Python-based development using **FastAPI, Flask, Django, Pydantic, Celery, SQLAlchemy**
-- Automation and scripting with **Python, Bash and PowerShell**
-- Secure microservices design with **cloud-first security approach**
-- CI/CD automation and governance with **GitLab CI, Kubernetes, Helm and Key Vault**
-- API management with **WSO2** and technical documentation leadership
+- Cloud architecture and DevSecOps leadership for public and private sector projects  
+  (Telefónica, ICO, Madrid Digital, judicial and government platforms)
+- Design of **secure microservices architectures** with cloud-first security principles
+- Infrastructure as Code using **Terraform**, **Ansible** and cloud-native templates
+- CI/CD and GitOps pipelines with **GitLab CI, Jenkins, ArgoCD, Tekton**
+- Kubernetes platforms: **AKS, EKS, GKE, OpenShift**
+- API management and security with **WSO2**
+- Progressive adoption of **AI-assisted development** and internal tooling
+- Python-based development for productivity and automation  
+  (FastAPI, Flask, Django, Pydantic, Celery, SQLAlchemy)
+- Technical governance, documentation and DevSecOps best practices
+
+---
 
 ### **DevOps & Automation Specialist** · Viewnext  
 *Almería, Spain · 07/2021 – 09/2023*
 
-- CI/CD pipelines with **Jenkins, SonarQube and Docker**
+- CI/CD pipelines with **Jenkins, SonarQube, Nexus and Docker**
 - Infrastructure automation using **Terraform, Bash and Kubernetes**
-- Banking projects (Banco de España – CIRBE), optimizing SQL performance and critical processes
-- Code quality, monitoring and technical audit practices
+- Banking and critical systems (Banco de España – CIRBE)
+- Performance optimization (SQL, batch processes, critical workloads)
+- Monitoring, observability and operational audits
 
 ---
 
-## 🛡️ Cybersecurity & Ethical Hacking
+## 🛡️ Cybersecurity
 
-### 🔴 Red Team / Pentesting
-- Web & API Pentesting (OWASP Top 10)
-- Infrastructure & Active Directory basics
-- Vulnerability discovery and exploitation (controlled environments)
-- Tools:  
-  `Kali Linux · Burp Suite · Metasploit · Nmap · SQLmap · Gobuster · BloodHound`
+### 🔵 Blue Team / Defense (Primary Focus)
 
-### 🔵 Blue Team / Defense
-- Security monitoring & incident response
-- SIEM & cloud-native security
-- Hardening & vulnerability management
-- Tools:  
-  `Microsoft Sentinel · Defender for Endpoint · Snort · Suricata`
-
-### 🟣 Purple Team
-- Attack simulation and detection improvement
-- Continuous feedback between offense and defense
-
-### 📜 Compliance & Standards
-- ISO/IEC 27001 & 27002  
-- NIST Cybersecurity Framework  
-- ENS (Spain)  
-- OWASP ASVS  
-
----
-
-## 🤖 Artificial Intelligence & Automation
-
-- AI agents and intelligent automation
-- LLM-based systems (RAG, prompt engineering, orchestration)
-- Enterprise AI integration in CI/CD and cloud environments
+- Security monitoring, detection and response
+- SIEM & SOC operations
+- Cloud-native security and posture management
+- Incident response and forensic analysis
 
 **Tools & Platforms**
-- Azure OpenAI · Azure AI Foundry · Semantic Kernel
-- LangChain · Hugging Face
-- OpenAI API · GPT · Copilot · Gemini
-
-**Data & ML**
-- NLP: Transformers, BERT, semantic search
-- ML & Data: Pandas, NumPy, Scikit-learn
+- SIEM: **Wazuh, Splunk, ELK Stack**
+- Detection: **Microsoft Defender, Suricata, Snort**
+- Cloud Security: Defender for Cloud, CSPM
+- Forensics: **Autopsy**, log and disk analysis
 
 ---
 
-## ☁️ Cloud & DevSecOps
+### 🔴 Red Team / Pentesting (Supporting Defense)
 
-### 🔹 Cloud Platforms
-- **Azure** (core focus)
-- AWS
-- GCP
+- Web & API Pentesting (OWASP Top 10)
+- Infrastructure and Active Directory testing
+- Vulnerability discovery and exploitation (controlled environments)
 
-### 🔹 DevOps / DevSecOps
-- CI/CD: Jenkins, GitLab CI, GitHub Actions  
-- Containers: Docker, Kubernetes, OpenShift, Helm  
-- IaC: Terraform, Ansible  
-- Observability: Prometheus, Grafana, ELK  
-- Security: Vault, SonarQube, Nexus, Snyk  
+**Tools**
+- Nmap, Nessus
+- Burp Suite, OWASP ZAP
+- Metasploit Framework
+- SQLmap, Gobuster, Hydra
+- Kali Linux, BlackArch
 
-### 🔹 Azure Stack
-- Azure App Service  
-- Azure Functions  
-- Azure Kubernetes Service (AKS)  
-- Azure Key Vault  
-- Azure Monitor  
-- Microsoft Defender for Cloud  
+---
+
+### 🟣 Purple Team
+
+- Attack simulation to improve detection and response
+- Continuous feedback between offensive and defensive teams
+- Detection engineering and tuning
+
+---
+
+### 📜 Governance, Risk & Compliance
+
+- ENS (Spain)
+- ISO/IEC 27001 & 27002
+- NIST Cybersecurity Framework
+- Secure SDLC
+- CIS Benchmarks, STIGs
+- SGSI design and implementation
+
+---
+
+## ☁️ Cloud Architecture & DevSecOps
+
+### Cloud Platforms
+- **Azure** (core): App Service, AKS, Functions, Key Vault, Monitor, Defender for Cloud
+- **AWS**: EC2, EKS, IAM, VPC, CloudWatch
+- **GCP**: GKE, IAM, networking services
+
+### Infrastructure as Code & Automation
+- Terraform
+- Ansible
+- Helm
+- ARM / CloudFormation
+
+### CI/CD, GitOps & Platforms
+- Jenkins
+- GitLab CI
+- GitHub Actions
+- ArgoCD
+- Tekton
+- FluxCD
+- Docker, Kubernetes, OpenShift
+
+---
+
+## 🤖 Artificial Intelligence & Intelligent Automation
+
+### Foundations
+- Machine Learning fundamentals
+- NLP concepts
+- Transformers, embeddings, semantic search
+
+### Applied AI & LLMs
+- OpenAI / GPT
+- Azure OpenAI
+- Hugging Face
+- Prompt engineering
+- RAG (Retrieval-Augmented Generation)
+
+### AI Agents & Orchestration
+- Semantic Kernel
+- LangChain
+- Multi-agent systems
+- Tool-augmented agents
+- Autonomous workflows
+
+### Emerging Areas
+- Agentic architectures
+- Reasoning models
+- AI governance and safety
+- Enterprise-grade AI adoption
 
 ---
 
 ## 💻 Development Stack
 
-- **Languages**: Python · Java · JavaScript · PHP · Bash · PowerShell  
-- **Frameworks**: FastAPI · Flask · Django · Spring Boot · Node.js  
-- **Databases**: MySQL · PostgreSQL · MongoDB  
-- **Architecture**: REST APIs · Microservices  
+- **Languages**: Python, Java, JavaScript, Bash, PowerShell  
+- **Frameworks**: FastAPI, Flask, Django, Spring Boot, Node.js  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
+- **Architecture**: REST APIs, microservices, distributed systems  
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Current Focus
 
 - Secure cloud architectures with embedded AI
-- AI agents for enterprise automation
-- DevSecOps, MLOps and hyperautomation
-- Cybersecurity governance and threat detection
+- Enterprise-grade AI agents and automation
+- DevSecOps and cloud governance at scale
+- Blue Team cybersecurity and compliance
+- High-impact systems aligned with business value
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/smncrvnts" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
 <a href="https://linkedin.com/in/simón-cervantes-martínez" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-</p>
-
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacm89-code&layout=compact" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sacm89-code&show_icons=true" />
+<a href="https://github.com/Sacm89-Code" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
 </p>
