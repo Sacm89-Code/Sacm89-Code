@@ -170,7 +170,6 @@ CTF Player · Teaching Assistant at **4Geeks Academy**
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacm89-code&layout=compact" />
 </p>
-
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacm89-code&show_icons=true" />
 </p>
