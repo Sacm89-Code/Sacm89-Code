@@ -29,7 +29,7 @@ My approach is **architectural, pragmatic and security-first**, always aligned w
 - Software Engineer → Backend, APIs, distributed systems  
 - Cloud Architect → Azure, AWS, GCP, enterprise services  
 - DevOps / DevSecOps Engineer → automation, CI/CD, GitOps  
-- Cybersecurity Specialist → Blue Team, governance, SOC, SGSI  
+- Cybersecurity Specialist → Red Team & Blue Team, governance, SOC, SGSI  
 - Applied AI Engineer → LLMs, AI agents, intelligent automation  
 
 ---
