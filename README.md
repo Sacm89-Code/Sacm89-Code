@@ -195,7 +195,7 @@ My approach is **architectural, pragmatic and security-first**, always aligned w
 
 - Secure cloud architectures with embedded AI
 - Enterprise-grade AI agents and automation
-- DevSecOps and cloud governance at scale
+- Red Team cybersecurity and compliance
 - Blue Team cybersecurity and compliance
 - High-impact systems aligned with business value
 
